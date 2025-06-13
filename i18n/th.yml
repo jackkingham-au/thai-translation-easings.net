@@ -10,7 +10,7 @@ share:
   Easing functions specify the speed of animation
   to make the movement more natural. Real objects don’t just move
   at a constant speed, and do not start and stop in an instant.
-  This page helps you choose the right easing function.
+  หน้านี้ช่วยให้คุฌเลือกฟังก์ชัน easing ถูก.
 
 about: __format
   ~~Easing functions~~ specify the rate of change of a parameter
@@ -21,7 +21,7 @@ about: __format
   and slow it down as it comes out. Drop something on the floor, and it will
   first accelerate downwards, and then bounce back up after hitting the floor.
 
-  This page helps you choose the right easing function.
+  หน้านี้ช่วยให้คุฌเลือกฟังก์ชัน easing ถูก.
 
 howtos:
   css:
@@ -55,20 +55,20 @@ howtos:
 easing:
   all_easings: All easings
   check: Check easing for changes
-  check_size: Sizes
-  check_position: Positions
-  check_opacity: Transparencies
-  current_func: This function
-  linear_func: Linear function
-  load: Loading...
+  check_size: ขนาด
+  check_position: ตำแหน่ง
+  check_opacity: ความโปร่งใส
+  current_func: ฟังก์ชันนี้
+  linear_func: ฟังก์ชันเชิงเส้น
+  load: กำลังโหลด...
 
 opensource:
-  title: Open Source
+  title: โอเพนซอร์ซ
   translate: กรุณาแปลเว็บไซฅ์นี้ในภาษาของคุณ
 
 authors:
   sitnik: Andrey Sitnik
-  separator: and
+  separator: และ
   solovev: Ivan Solovev
 
 theme:
